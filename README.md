@@ -14,3 +14,5 @@ There are three enviromental variables which need to be set:
 - IPMIPW: This is the password on your idrac controller, the default is calvin.
 
 This container/script was built heavily off the R710-IPMI-TEMP script located on [GitHub](https://github.com/NoLooseEnds/Scripts/tree/master/R710-IPMI-TEMP)
+
+#update test
